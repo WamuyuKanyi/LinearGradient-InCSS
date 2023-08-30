@@ -22,7 +22,11 @@ background-repeat: no-repeat;
 background-position: center;
 background-attachment: fixed;
 }
-/* for the overlay the image wil be darker for example, background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)),url(./Images/cake.jpeg); */
+/* for the overlay the image will be darker for example, background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)),url(./Images/cake.jpeg); */
 .header{
  background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)),url(./Images/cake.jpeg);
 }
+
+/*NB:  you can generate gradients by googling css gradient generator  */
+
+
